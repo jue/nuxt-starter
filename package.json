@@ -1,6 +1,6 @@
 {
   "name": "create-jue",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "type": "module",
   "description": "Create a new Nuxt project with TailwindCSS or @nuxt/ui",
   "bin": {

@@ -43,7 +43,7 @@ bun create jue@nuxt .
 ## Publishing
 
 ```bash
-# Publish with nuxt tag
+# Publish with nuxt tag (required for bun create jue@nuxt)
 npm publish --tag nuxt
 ```
 
